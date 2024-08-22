@@ -1,6 +1,7 @@
 title: ChristinaJoice
 logo: /assets/images/logo.avif
 baseurl: /awesome-jekyll-theme
+theme: awesome-jekyll-theme
 
 ##
 # Typewritter configuration.
